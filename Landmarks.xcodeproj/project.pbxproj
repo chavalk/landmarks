@@ -16,6 +16,7 @@
 		BEB38B0F29FE157600016214 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = BEB38B0E29FE157600016214 /* landmarkData.json */; };
 		BEB38B1129FE15B800016214 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B1029FE15B800016214 /* Landmark.swift */; };
 		BEB38B1329FE3E7400016214 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B1229FE3E7400016214 /* ModelData.swift */; };
+		BEB38B1929FEB23A00016214 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B1829FEB23A00016214 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		BEB38B0E29FE157600016214 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		BEB38B1029FE15B800016214 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		BEB38B1229FE3E7400016214 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		BEB38B1829FEB23A00016214 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BEB38AFE29FD610500016214 /* ContentView.swift */,
 				BEB38B0A29FD755700016214 /* CircleImage.swift */,
 				BEB38B0C29FD956700016214 /* MapView.swift */,
+				BEB38B1829FEB23A00016214 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				BEB38AFD29FD610500016214 /* LandmarksApp.swift in Sources */,
 				BEB38B0B29FD755700016214 /* CircleImage.swift in Sources */,
 				BEB38B1129FE15B800016214 /* Landmark.swift in Sources */,
+				BEB38B1929FEB23A00016214 /* LandmarkRow.swift in Sources */,
 				BEB38B1329FE3E7400016214 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
