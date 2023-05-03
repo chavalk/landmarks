@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct LandmarkList: View {
+    @State private var showFavoritesOnly = false
+    
     var body: some View {
         NavigationStack {
             List(landmarks) { landmark in
