@@ -31,6 +31,7 @@
 		BEB38B372A046B4300016214 /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B332A046B4300016214 /* HikeGraph.swift */; };
 		BEB38B382A046B4300016214 /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B342A046B4300016214 /* HikeDetail.swift */; };
 		BEB38B392A046B4300016214 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B352A046B4300016214 /* HikeView.swift */; };
+		BEB38B3C2A04834C00016214 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3B2A04834C00016214 /* CategoryHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		BEB38B332A046B4300016214 /* HikeGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
 		BEB38B342A046B4300016214 /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		BEB38B352A046B4300016214 /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
+		BEB38B3B2A04834C00016214 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				BEB38B2C2A0373D600016214 /* Badges */,
 				BEB38B212A033EC500016214 /* Helpers */,
 				BEB38B312A046B4300016214 /* Hikes */,
+				BEB38B3A2A04830A00016214 /* Categories */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,14 @@
 				BEB38B352A046B4300016214 /* HikeView.swift */,
 			);
 			path = Hikes;
+			sourceTree = "<group>";
+		};
+		BEB38B3A2A04830A00016214 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				BEB38B3B2A04834C00016214 /* CategoryHome.swift */,
+			);
+			path = Categories;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEB38AFF29FD610500016214 /* ContentView.swift in Sources */,
+				BEB38B3C2A04834C00016214 /* CategoryHome.swift in Sources */,
 				BEB38B372A046B4300016214 /* HikeGraph.swift in Sources */,
 				BEB38B2B2A036ECF00016214 /* Badge.swift in Sources */,
 				BEB38B0D29FD956700016214 /* MapView.swift in Sources */,
