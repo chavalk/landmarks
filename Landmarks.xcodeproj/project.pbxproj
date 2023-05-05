@@ -32,6 +32,7 @@
 		BEB38B382A046B4300016214 /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B342A046B4300016214 /* HikeDetail.swift */; };
 		BEB38B392A046B4300016214 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B352A046B4300016214 /* HikeView.swift */; };
 		BEB38B3C2A04834C00016214 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3B2A04834C00016214 /* CategoryHome.swift */; };
+		BEB38B3E2A04A56500016214 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3D2A04A56500016214 /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		BEB38B342A046B4300016214 /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		BEB38B352A046B4300016214 /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		BEB38B3B2A04834C00016214 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		BEB38B3D2A04A56500016214 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				BEB38B3B2A04834C00016214 /* CategoryHome.swift */,
+				BEB38B3D2A04A56500016214 /* CategoryRow.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEB38B3E2A04A56500016214 /* CategoryRow.swift in Sources */,
 				BEB38AFF29FD610500016214 /* ContentView.swift in Sources */,
 				BEB38B3C2A04834C00016214 /* CategoryHome.swift in Sources */,
 				BEB38B372A046B4300016214 /* HikeGraph.swift in Sources */,
