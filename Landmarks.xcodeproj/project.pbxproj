@@ -36,6 +36,7 @@
 		BEB38B402A04A97100016214 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3F2A04A97100016214 /* CategoryItem.swift */; };
 		BEB38B422A06FC2400016214 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B412A06FC2400016214 /* Profile.swift */; };
 		BEB38B452A07004B00016214 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B442A07004B00016214 /* ProfileHost.swift */; };
+		BEB38B472A0702D300016214 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B462A0702D300016214 /* ProfileSummary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		BEB38B3F2A04A97100016214 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		BEB38B412A06FC2400016214 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		BEB38B442A07004B00016214 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
+		BEB38B462A0702D300016214 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				BEB38B442A07004B00016214 /* ProfileHost.swift */,
+				BEB38B462A0702D300016214 /* ProfileSummary.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				BEB38B1F2A033B2E00016214 /* FavoriteButton.swift in Sources */,
 				BEB38B402A04A97100016214 /* CategoryItem.swift in Sources */,
 				BEB38B382A046B4300016214 /* HikeDetail.swift in Sources */,
+				BEB38B472A0702D300016214 /* ProfileSummary.swift in Sources */,
 				BEB38B232A03476E00016214 /* HexagonParameters.swift in Sources */,
 				BEB38B452A07004B00016214 /* ProfileHost.swift in Sources */,
 				BEB38B302A0467EB00016214 /* Hike.swift in Sources */,
