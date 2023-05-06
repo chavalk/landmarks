@@ -35,6 +35,7 @@
 		BEB38B3E2A04A56500016214 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3D2A04A56500016214 /* CategoryRow.swift */; };
 		BEB38B402A04A97100016214 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B3F2A04A97100016214 /* CategoryItem.swift */; };
 		BEB38B422A06FC2400016214 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B412A06FC2400016214 /* Profile.swift */; };
+		BEB38B452A07004B00016214 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B442A07004B00016214 /* ProfileHost.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		BEB38B3D2A04A56500016214 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		BEB38B3F2A04A97100016214 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		BEB38B412A06FC2400016214 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		BEB38B442A07004B00016214 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				BEB38B212A033EC500016214 /* Helpers */,
 				BEB38B312A046B4300016214 /* Hikes */,
 				BEB38B3A2A04830A00016214 /* Categories */,
+				BEB38B432A06FFF000016214 /* Profiles */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -201,6 +204,14 @@
 				BEB38B3F2A04A97100016214 /* CategoryItem.swift */,
 			);
 			path = Categories;
+			sourceTree = "<group>";
+		};
+		BEB38B432A06FFF000016214 /* Profiles */ = {
+			isa = PBXGroup;
+			children = (
+				BEB38B442A07004B00016214 /* ProfileHost.swift */,
+			);
+			path = Profiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -288,6 +299,7 @@
 				BEB38B402A04A97100016214 /* CategoryItem.swift in Sources */,
 				BEB38B382A046B4300016214 /* HikeDetail.swift in Sources */,
 				BEB38B232A03476E00016214 /* HexagonParameters.swift in Sources */,
+				BEB38B452A07004B00016214 /* ProfileHost.swift in Sources */,
 				BEB38B302A0467EB00016214 /* Hike.swift in Sources */,
 				BEB38B292A035AD300016214 /* RotatedBadgeSymbol.swift in Sources */,
 				BEB38B272A0356F300016214 /* BadgeSymbol.swift in Sources */,
