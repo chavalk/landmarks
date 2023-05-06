@@ -19,7 +19,7 @@ struct Profile {
         case spring = "🌷"
         case summer = "🌞"
         case autumn = "🍂"
-        case winter = "☃︎"
+        case winter = "☃️"
         
         var id: String { rawValue }
     }
