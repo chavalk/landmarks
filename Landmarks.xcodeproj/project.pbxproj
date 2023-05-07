@@ -41,6 +41,7 @@
 		BEB38B4B2A07F12000016214 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4A2A07F12000016214 /* ProfileEditor.swift */; };
 		BEB38B4E2A08093600016214 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4D2A08093600016214 /* PageViewController.swift */; };
 		BEB38B502A080CB000016214 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4F2A080CB000016214 /* FeatureCard.swift */; };
+		BEB38B522A081E9300016214 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B512A081E9300016214 /* PageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		BEB38B4A2A07F12000016214 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		BEB38B4D2A08093600016214 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		BEB38B4F2A080CB000016214 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		BEB38B512A081E9300016214 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +235,7 @@
 			children = (
 				BEB38B4D2A08093600016214 /* PageViewController.swift */,
 				BEB38B4F2A080CB000016214 /* FeatureCard.swift */,
+				BEB38B512A081E9300016214 /* PageView.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				BEB38B452A07004B00016214 /* ProfileHost.swift in Sources */,
 				BEB38B302A0467EB00016214 /* Hike.swift in Sources */,
 				BEB38B292A035AD300016214 /* RotatedBadgeSymbol.swift in Sources */,
+				BEB38B522A081E9300016214 /* PageView.swift in Sources */,
 				BEB38B272A0356F300016214 /* BadgeSymbol.swift in Sources */,
 				BEB38B4B2A07F12000016214 /* ProfileEditor.swift in Sources */,
 				BEB38B1B29FEC09500016214 /* LandmarkList.swift in Sources */,
