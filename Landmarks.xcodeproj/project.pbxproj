@@ -40,6 +40,7 @@
 		BEB38B492A0706CA00016214 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B482A0706CA00016214 /* HikeBadge.swift */; };
 		BEB38B4B2A07F12000016214 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4A2A07F12000016214 /* ProfileEditor.swift */; };
 		BEB38B4E2A08093600016214 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4D2A08093600016214 /* PageViewController.swift */; };
+		BEB38B502A080CB000016214 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B4F2A080CB000016214 /* FeatureCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		BEB38B482A0706CA00016214 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		BEB38B4A2A07F12000016214 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		BEB38B4D2A08093600016214 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		BEB38B4F2A080CB000016214 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,6 +232,7 @@
 			isa = PBXGroup;
 			children = (
 				BEB38B4D2A08093600016214 /* PageViewController.swift */,
+				BEB38B4F2A080CB000016214 /* FeatureCard.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				BEB38B422A06FC2400016214 /* Profile.swift in Sources */,
 				BEB38AFF29FD610500016214 /* ContentView.swift in Sources */,
 				BEB38B3C2A04834C00016214 /* CategoryHome.swift in Sources */,
+				BEB38B502A080CB000016214 /* FeatureCard.swift in Sources */,
 				BEB38B372A046B4300016214 /* HikeGraph.swift in Sources */,
 				BEB38B2B2A036ECF00016214 /* Badge.swift in Sources */,
 				BEB38B0D29FD956700016214 /* MapView.swift in Sources */,
