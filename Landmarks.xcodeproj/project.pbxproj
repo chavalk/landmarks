@@ -63,6 +63,7 @@
 		BEB38B862A09728400016214 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B1829FEB23A00016214 /* LandmarkRow.swift */; };
 		BEB38B872A09728400016214 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B0C29FD956700016214 /* MapView.swift */; };
 		BEB38B882A09728400016214 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B2F2A0467EB00016214 /* Hike.swift */; };
+		BEB38B8C2A09760900016214 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB38B8B2A09760900016214 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -136,6 +137,7 @@
 		BEB38B6F2A09601500016214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BEB38B712A09601600016214 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEB38B742A09601600016214 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BEB38B8B2A09760900016214 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -339,6 +341,7 @@
 				BEB38B6F2A09601500016214 /* ContentView.swift */,
 				BEB38B712A09601600016214 /* Assets.xcassets */,
 				BEB38B732A09601600016214 /* Preview Content */,
+				BEB38B8B2A09760900016214 /* LandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Watch App";
 			sourceTree = "<group>";
@@ -546,6 +549,7 @@
 				BEB38B862A09728400016214 /* LandmarkRow.swift in Sources */,
 				BEB38B872A09728400016214 /* MapView.swift in Sources */,
 				BEB38B842A09728400016214 /* CircleImage.swift in Sources */,
+				BEB38B8C2A09760900016214 /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
